@@ -1,0 +1,9 @@
+/* *号是css中的通配符，意思是所有的标签都有的属性，表示所有的标签都遵循的统一样式。 */
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  outline: none;
+  box-sizing: border-box;
+}
